@@ -10,6 +10,7 @@ Incorporation of a CMUT cell with a porous dielectric might increase its efficie
 
 It is going to affect both: transmit and receive modes
 ![Modes](https://github.com/birukoff1/CMUT_electrospun_filament/tree/main/README/Modes.png)
+![Test image](https://github.com/birukoff1/Fibers_CV_perspective/blob/main/Test_image.png)
 
 The optimal porosity value is expected near 50%, where rigidity of the filament becomes negligeble 
 ![Characteristics](https://github.com/birukoff1/CMUT_electrospun_filament/tree/main/README/Characteristics.png)
