@@ -6,23 +6,22 @@ Study of incorporation of CMUT cells with porous dielectric srtucture for improv
 ## Concept
 
 Incorporation of a CMUT cell with a porous dielectric might increase its efficiency
-![CMUT with filament](https://github.com/birukoff1/CMUT_electrospun_filament/tree/main/README/CMUT with filament.png)
+![CMUT with filament](https://github.com/birukoff1/CMUT_electrospun_filament/blob/main/README/CMUT%20with%20filament.png)
 
 It is going to affect both: transmit and receive modes
-![Modes](https://github.com/birukoff1/CMUT_electrospun_filament/tree/main/README/Modes.png)
-![Test image](https://github.com/birukoff1/Fibers_CV_perspective/blob/main/Test_image.png)
+![Modes](https://github.com/birukoff1/CMUT_electrospun_filament/blob/main/README/Modes.png)
 
 The optimal porosity value is expected near 50%, where rigidity of the filament becomes negligeble 
-![Characteristics](https://github.com/birukoff1/CMUT_electrospun_filament/tree/main/README/Characteristics.png)
+![Characteristics](https://github.com/birukoff1/CMUT_electrospun_filament/blob/main/README/Characteristics.png)
 
 A suitable material with relatively high dielectric constant is PLA, which can be formed in nanometer fibers 
-![Filament](https://github.com/birukoff1/CMUT_electrospun_filament/tree/main/README/Filament.png)
+![Filament](https://github.com/birukoff1/CMUT_electrospun_filament/blob/main/README/Filament.png)
 
 Before the start, influence of pores geometry on permittivity is studied by FEM
-![FEM fitting](https://github.com/birukoff1/CMUT_electrospun_filament/tree/main/README/FEM fitting.png)
+![FEM fitting](https://github.com/birukoff1/CMUT_electrospun_filament/blob/main/README/FEM%20fitting.png)
 
 Microscopic indentor, RLC-meter, electron microscope, tomograph and a laser vibrometer are used in the study
-![Tomography](https://github.com/birukoff1/CMUT_electrospun_filament/tree/main/README/Tomography.png)
+![Tomography](https://github.com/birukoff1/CMUT_electrospun_filament/blob/main/README/Tomography.png)
 
 <!--Instruments-->
 ## Instruments
